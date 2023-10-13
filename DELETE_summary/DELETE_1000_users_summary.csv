@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+DELETE - HTTP Request,3000,275,0,2962,"64,68","0,167%","278,08676","275,01","61,37","1012,7"
+TOTAL,3000,275,0,2962,"64,68","0,167%","278,08676","275,01","61,37","1012,7"

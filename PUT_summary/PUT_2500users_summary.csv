@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+PUT - HTTP Request,7498,406,0,112023,"1311,78","16,471%","64,07068","64,24","17,02","1026,6"
+TOTAL,7498,406,0,112023,"1311,78","16,471%","64,07068","64,24","17,02","1026,6"
